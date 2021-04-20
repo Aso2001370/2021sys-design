@@ -1,6 +1,6 @@
 ```uml
 @startuml
-Alice -> Bob Request
+Alice -> Bob: Request
 Bob --> Alice: Response
 @enduml
 ```
