@@ -10,6 +10,12 @@ http://www.plantuml.com/plantuml/png/fPLVJnj74C3VxrDipGEf6jTOIlyaGYX0gOHIGmL-gQh
 <h2 id="usage2">うまい棒</h2>
 https://www.figma.com/proto/A5ZUIvNaORedbtjXYUjLS7/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
+
+
+*****
+<img src="../img/toppage.png" width="500">
+
+*****
 <h2 id="usage1">機能一覧</h2>
 # 機能一覧
 ### ECサイト機能一覧
