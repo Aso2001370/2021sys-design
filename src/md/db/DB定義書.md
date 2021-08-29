@@ -52,3 +52,6 @@ https://www.figma.com/proto/A5ZUIvNaORedbtjXYUjLS7/Untitled?node-id=1%3A2&scalin
 |商品コード|item_code|int(11)||〇||
 |価格|price|int(11)||〇||
 |数量|num|int(11)||〇||
+
+
+.
